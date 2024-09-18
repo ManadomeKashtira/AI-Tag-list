@@ -1,5 +1,27 @@
 Most Used Tags list
+
+use bracket Increase the value() use [] decrese the value 
+
+Example increase the dramatic sky by 0.6 (dramatic sky:0.6)  decrese the teal color by 0.7[teal:0.7]
+
+Maximum value 2
+
+Quality Tags
+Specific for Ponny Model Use this in the front of the paraphrase 
+(score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up),
+
 Positive 
 (masterpiece), (best quality), (ultra-detailed), very aesthetic, illustration, disheveled hair, perfect composition, moist skin, intricate details,
+
 Negative
-nsfw, longbody, lowres, bad anatomy, bad hands, missing fingers, pubic hair, extra digit, fewer digits, cropped, worst quality, low quality, very displeasing
+nsfw, longbody, lowres, bad anatomy, bad hands, missing fingers, pubic hair, extra digit, fewer digits, cropped, worst quality, low quality, very displeasing,
+lowres, (bad), text, error, fewer, extra, missing,jpeg artifacts, watermark, unfinished, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, 
+scan, abstract, (bad anatomy), bad hands, bad feet, bad hand, bad finger, bad fingers, extra finger,split finger,extra digits, fused arms, fused hands:1.6
+
+Effects List:
+Spirit Energy
+laser beam
+Sun beam
+Shattered Glass
+bioilumination
+
