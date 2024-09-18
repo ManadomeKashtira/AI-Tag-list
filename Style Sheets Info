@@ -18,42 +18,17 @@ nsfw, longbody, lowres, bad anatomy, bad hands, missing fingers, pubic hair, ext
 lowres, (bad), text, error, fewer, extra, missing,jpeg artifacts, watermark, unfinished, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, 
 scan, abstract, (bad anatomy), bad hands, bad feet, bad hand, bad finger, bad fingers, extra finger,split finger,extra digits, fused arms, fused hands:1.6
 
-Magic Effects List:
-Cold ice
-floating petals
-luminescent
-porcelain (embossed decoration on body)(Ceremic Effects)
-lens flares 
-glitter booms
-Splash screen
-Mirror world
-Fiery flames 
-Spirit Energy
-Awakened 
-Spooky 
-insane void (Horrors)
-Swirling
-Magic circle
-Ritual Circle
-Laser Energy
-Slash
-liquid splash
-flowing liquid in the air
-Wind slash
-laser beam
-Sparks particles
-Sun beam
-Shattered Glass
-bioilumination
-bloom
-Translucent (your text)
-Paint splashes
-light trail
-long exposure
-dreamy
-starry sky
-surreal
-ethereal presence
-Global Illumination 
-Water droplet
+🪫️ Generic Neg Text (Low Weight),,"(worst quality:1.5), (low quality:1.5), (normal quality:1.5), (b&w:1.2), (black and white:1.2)"
+
+Restless Anime+,"(linework:1.1)","(worst quality, low quality:1.4), (panels:1.4), lowres, low resolution, watermark, bad-hands-5"
+
+Restless Existence++,"(Maya 3d render:1.05), (masterpiece:1.3), (hires, high resolution:1.3), subsurface scattering, heavy shadow","(low quality:1.5), (normal quality:1.5), 
+(lowres, low resolution:1.5), (FastNegativeV2:0.75), BadDream, (UnrealisticDream:1.25), (bad-hands-5:1.25)"
+
+Restless Photorealistic++,"RAW photo, (masterpiece:1.3), subsurface scattering, heavy shadow, (high quality:1.4), (intricate, high detail:1.2), professional photography, 
+HDR, High Dynamic Range, realistic, ultra realistic, photorealistic, high resolution, film photography, DSLR, 8k uhd, Fujifilm XT3","(low quality:1.5), (normal quality:1.5),
+(lowres, low resolution:1.5), (camera:1.5), (FastNegativeV2:0.75), BadDream, (UnrealisticDream:1.25), (bad-hands-5:1.25), underexposed, underexposure, overexposure, overexposed, 
+canvas frame, cartoon, 3d, 3d render, CGI, computer graphics"
+
+
 
